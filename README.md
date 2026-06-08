@@ -14,4 +14,4 @@ Sou estudante de Engenharia de Dados, focado em criar soluções eficientes para
 
 ## 📬 Contato
 * **E-mail:** meneses_diego@hotmail.com
-* **LinkedIn:** [Diego Meneses](www.linkedin.com/in/diego-meneses-147225313)
+* **LinkedIn:** [Diego Meneses]www.linkedin.com/in/diego-meneses-147225313)
