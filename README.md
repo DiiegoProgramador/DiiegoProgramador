@@ -1,12 +1,17 @@
-- Oii, sou Diego Meneses!
-- 👀 Estou interessado ao aprendizado de programação PYTHON.
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on desenvolvimento de projetos em python para adquirir mais conhecimentos.
-- 📫 How to reach me 71993308158, e-mail meneses_diego@hotmail.com
-- 😄 Estudante de Python.
-- ⚡ Fun fact: ...
+# Olá, eu sou o Diego Meneses! 👋
 
-<!---
-DiiegoProgramador/DiiegoProgramador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou estudante de Engenharia de Dados, focado em criar soluções eficientes para movimentação, tratamento e armazenamento de dados. Atualmente, desenvolvo projetos práticos utilizando Python e SQL para consolidar conceitos de ETL/ELT e modelagem de dados.
+
+## 🛠️ Habilidades e Tecnologias em Desenvolvimento
+* **Linguagens:** Python e SQL
+* **Bancos de Dados:** SQLite, PostgreSQL
+* **Engenharia de Dados:** Manipulação de arquivos (CSV, Parquet), automação de scripts e pipelines de dados locais
+* **Ferramentas:** Git, GitHub, VS Code
+
+## 🚀 Projetos em Destaque
+* **[De-copy-data-pra-csv_to_parquet](https://github.com/Diego-Programador/De-copy-data-pra-csv_to_parquet.)**: Projeto focado em otimização de formatos de dados, realizando a conversão estruturada de arquivos de texto/CSV para Parquet.
+* **[DESAFIOS-Estacio](https://github.com/Diego-Programador/DESAFIOS-Estacio)**: Repositório de código focado em desafios de manipulação de dados em Python e integração com bancos de dados relacionais.
+
+## 📬 Contato
+* **E-mail:** meneses_diego@hotmail.com
+* **LinkedIn:** [Diego Meneses](www.linkedin.com/in/diego-meneses-147225313)
